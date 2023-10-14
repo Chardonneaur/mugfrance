@@ -1,0 +1,146 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Main Map.tmx",
+    "expandedProjectPaths": [
+        ".",
+        "Tilemaps"
+    ],
+    "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "D:/Projets/Fiverr/DaemonSalvatore/map-starter-kit-master/map-starter-kit-master/map.tmj": {
+            "scale": 0.8274193548387097,
+            "selectedLayer": 12,
+            "viewCenter": {
+                "x": 495.5165692007797,
+                "y": 336.58869395711497
+            }
+        },
+        "D:/Projets/Fiverr/DaemonSalvatore/map-starter-kit-master/map-starter-kit-master/map.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "D:/Projets/Fiverr/DaemonSalvatore/map-starter-kit-master/map-starter-kit-master/map.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "D:/Projets/Fiverr/DaemonSalvatore/map-starter-kit-master/map-starter-kit-master/map.tmj#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "D:/Projets/Fiverr/DaemonSalvatore/map-starter-kit-master/map-starter-kit-master/map.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "D:/Projets/Fiverr/DaemonSalvatore/map-starter-kit-master/map-starter-kit-master/map.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "D:/Projets/Fiverr/DaemonSalvatore/map-starter-kit-master/map-starter-kit-master/map.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "D:/Projets/Fiverr/DaemonSalvatore/map-starter-kit-master/map-starter-kit-master/map.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "D:/Projets/Fiverr/DaemonSalvatore/map-starter-kit-master/map-starter-kit-master/map.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "D:/Projets/Fiverr/DaemonSalvatore/map-starter-kit-master/map-starter-kit-master/map.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "D:/Projets/Fiverr/DaemonSalvatore/map-starter-kit-master/map-starter-kit-master/map.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "Main Map.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1078,
+                "y": 1244.6666666666665
+            }
+        },
+        "Tilemaps/Cars_Elements.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilemaps/Path.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilemaps/WA_Decoration.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilemaps/WA_Exterior.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilemaps/WA_Miscellaneous.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilemaps/WA_Other_Furniture.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilemaps/WA_Room_Builder.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Tilemaps/WA_Special_Zones.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilemaps/WA_Tables.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilemaps/WA_User_Interface.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "WA_Decoration.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "WA_Seats.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "D:/Projets/Fiverr/DaemonSalvatore",
+    "map.height": 120,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 120,
+    "openFiles": [
+        "D:/Projets/Fiverr/DaemonSalvatore/map-starter-kit-master/map-starter-kit-master/map.tmj",
+        "Main Map.tmx",
+        "Tilemaps/WA_Other_Furniture.tsx",
+        "Tilemaps/WA_Room_Builder.tsx",
+        "Tilemaps/WA_Tables.tsx",
+        "Tilemaps/WA_Exterior.tsx",
+        "WA_Seats.tsx",
+        "Tilemaps/WA_Miscellaneous.tsx",
+        "Tilemaps/WA_Decoration.tsx",
+        "Tilemaps/WA_Special_Zones.tsx",
+        "Tilemaps/WA_User_Interface.tsx",
+        "Tilemaps/Cars_Elements.tsx",
+        "Tilemaps/Path.tsx"
+    ],
+    "project": "Map.tiled-project",
+    "recentFiles": [
+        "D:/Projets/Fiverr/DaemonSalvatore/map-starter-kit-master/map-starter-kit-master/map.tmj",
+        "Tilemaps/Path.tsx",
+        "Tilemaps/Cars_Elements.tsx",
+        "Tilemaps/WA_User_Interface.tsx",
+        "Tilemaps/WA_Special_Zones.tsx",
+        "Tilemaps/WA_Decoration.tsx",
+        "Tilemaps/WA_Miscellaneous.tsx",
+        "WA_Seats.tsx",
+        "Tilemaps/WA_Exterior.tsx",
+        "Tilemaps/WA_Tables.tsx",
+        "Tilemaps/WA_Room_Builder.tsx",
+        "Tilemaps/WA_Other_Furniture.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
